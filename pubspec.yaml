@@ -11,11 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  graphs: ^2.1.0
+  graph_collection: ^2.0.0
   periodic_table: ^0.2.0
-  graph_collection: ^1.1.2
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   flutter_lints: ^1.0.0
 
 flutter:
